@@ -1,0 +1,23 @@
+:root{
+  font-size: 65%;
+}
+
+html{
+  min-height: 100vh;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+
+*,
+input,
+textarea,
+button {
+  font-family: "Quicksand", sans-serif;
+}
